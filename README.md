@@ -19,9 +19,7 @@ Content:
 * The Spread & Rest Operator
 * Destructuring
 * Reference and Primitive Types Refresher
-* Refreshing Array Functions
-* Wrap Up
-* Summary: Next-Gen JS
+
 ---
 
 ### Let & Const
@@ -170,8 +168,4 @@ The reason for it is that it just **copied the pointer** and points to the exact
 It's important keep this in mind because it can lead to unexpected behaviors in React.       
 We will learn techniques to copy this in an immutable way which means         
 we copy that by really copying the object and not just a pointer 
-
-### Refreshing Array Functions
-
-
 
